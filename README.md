@@ -1,4 +1,4 @@
-# Pet Machine Java
+# Pet Machine em JAVA
 
 Simulador de uma máquina de banho para pets, executado no terminal e desenvolvido em Java para praticar abstração e encapsulamento na programação orientada a objetos.
 
